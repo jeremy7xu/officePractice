@@ -1,0 +1,10 @@
+ public class a{
+
+	private Integer age;
+
+	private String name
+
+
+
+
+ }
