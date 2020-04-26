@@ -1,0 +1,15 @@
+ public class a{
+
+	private Integer age;
+
+	private String name;
+
+	public static void main(String[] args){
+
+		System.out.println("this is van darkhome");
+	}
+
+
+
+
+ }
